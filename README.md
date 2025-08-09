@@ -1,2 +1,2 @@
 # apple_stock_analysis
-"تحليل أسعار أسهم شركة Apple باستخدام طريقة بوكس-جينكينز لتنبؤ الأسعار المستقبلية. يهدف المشروع إلى استخدام الأساليب الإحصائية المتقدمة لتحديد الاتجاهات المستقبلية في أسعار الأسهم بناءً على البيانات التاريخية وتحليل السلاسل الزمنية."
+Analysis of Apple Inc. stock prices using the Box-Jenkins method to forecast future prices. The project aims to apply advanced statistical methods to identify future trends in stock prices based on historical data and time series analysis.
